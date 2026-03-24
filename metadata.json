@@ -1,0 +1,5 @@
+{
+  "name": "FireStock - Gestion EPI",
+  "description": "Application de gestion de la réserve d'EPI (Équipements de Protection Individuelle).",
+  "requestFramePermissions": ["camera"]
+}
